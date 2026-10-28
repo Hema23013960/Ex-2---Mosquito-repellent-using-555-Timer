@@ -74,6 +74,7 @@ Adjust the potentiometer and note the corresponding change in output frequency.
 	
 	
 <img width="1036" height="597" alt="Screenshot 2026-10-27 232940" src="https://github.com/user-attachments/assets/fa08da48-c4d1-4538-987a-d4ccb2aa6385" />
+<img width="1467" height="941" alt="Screenshot 2026-10-28 192533" src="https://github.com/user-attachments/assets/bf53f6f7-cd5a-41f9-a1f0-0451f2759eb4" />
 
 
 **Result**
